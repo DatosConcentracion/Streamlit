@@ -1,0 +1,1 @@
+pip install torch numpy scipy scikit-learn matplotlib pandas requests tqdm
